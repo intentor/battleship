@@ -1,6 +1,6 @@
 # Battleship
 
-Simple Battleship game created in Java.
+Simple Battleship game created in Java as an assignment during the Digital Games Development course at [FATEC Carapicuíba](http://www.fateccarapicuiba.edu.br/).
 
 The project is in Java 6 and all the comments are in Brazilian Portuguese.
 
